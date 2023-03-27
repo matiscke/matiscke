@@ -1,4 +1,12 @@
-### Hi there 👋
+# Hi, I'm Martin
+
+I am a postdoctoral researcher at the [Steward Observatory, University of Arizona](https://www.as.arizona.edu/) in Tucson, AZ.  
+
+I study exoplanets and their formation using space- and ground-based telescopes, supercomputer simulations, and statistical methods sprinkled with a little machine learning. I'm interested in open and reproducible science, as well as in how we scientists can help address the climate crisis. 
+
+You can find out more about my background and research on [my webpage](https://matiscke.github.io).  
+
+
 
 <!--
 **matiscke/matiscke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
